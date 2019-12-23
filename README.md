@@ -1,0 +1,2 @@
+# for-Mobile-app-based-on-voice-enabled-forms-submission-
+Voice recognition is a trending and developing technology for complex systems . Google, jot etc forms exist and also google , alexa, cortana etc voice recognition technologies exist. But both haven’t yet been integrated into one. A beneficiary tool/tech for non-natives of tech, disabled, elderly people Time saving process. Can use any desirable language for form filling.
